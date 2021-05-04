@@ -15,8 +15,7 @@ Hopefully, this will change in the upcoming years because I'm ambitious, I want 
 My main career goal is to learn every day, I really want to learn and to progress in my career. 
 Data Science requires constant learning and improving, taking a course can help me advance in my knowledge.
 I plan on gaining additional skills by taking related classes and continuing my involvement with a variety of professional associations and I noticed that there a lot of company provides in internship and jobs in the related filled, and I would certainly be interested in taking it and improving my self to be on of the pioneer of Data Science. 
-There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area.
-*
+There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area.*
 
 ## If you answered no, please help us understand why.
 *Because there are a lot of developing countries the average rate of income is low and not enough personal needs for home so it isn't enough to get paid courses, and we need a lot of free courses for learning and improving ourselves and help humanity and society.*
